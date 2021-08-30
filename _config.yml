@@ -1,9 +1,9 @@
 # Basic
-title: '1874'
+title: '12345'
 subtitle: 个人博客
 description: Because it's there
 # 头像里面的标题
-avatarTitle: '1874'
+avatarTitle: '12345'
 # 头像里面的描述
 avatarDesc: luliangwei
 url: ""
@@ -11,7 +11,7 @@ url: ""
 
 # Social
 social:
-    weibo: 小陆子想改微博名
+    weibo: 小陆子
     weiboUrl: 3244192612/profile
     github: byeluliangwei
     twitter: byeluliangwei(其实没有)
