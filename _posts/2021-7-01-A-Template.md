@@ -4,42 +4,106 @@ title: Blog Template
 date: 2021-7-01
 tags: Template
 ---
-### 一级标题
-&emsp;&emsp; GIthub Pages则是github上的一项功能，可以放置网页文件到指定文件夹，然后给你一个专属域名用于展示一些项目，但现在大多用来开发制作个人博客网站。本教程就是基于此来搭建一个自己专属的博客。  
+<center> <font face="黑体" color=red size=14>题目居中黑体红色大字</font></center>
 
-### 搭建步骤  
+<p align="left"><font face="黑体" size=6>Abstract:</font></p> 
 
-- Fork一个Jekyll主题的工程到你的Github账户下，你可以Fork[我的工程](https://github.com/byeluliangwei/byeluliangwei.github.io)，请务必在`__posts`目录下，删除我已有的文章。也可以自己去[JEkyll主题网站](http://jekyllthemes.org)找你喜欢的主题，然后放到你的Github仓库中。  
+&emsp;&emsp;首行缩进两个字符。这是文章的摘要：记录Markdown和HTML的常用语法，方便快速记录文字。
 
-- 进入工程所在的`setting`中，修改工程名称为`{your github name}.github.io`。如下图所示：![](https://byeluliangwei.github.io/images/readme/step1.png)  
+# 一级标题：强调方式
 
-- 在`setting`页面中往下拉，找到`Github Pages`,任意选择一个主题，并找到自己的博客地址。如下图所示：![](https://byeluliangwei.github.io/images/readme/step2.png)  
+**粗体强调**   关键词， 
 
-- 在你fork的工程中，找到`__config`文件，并修改其中的个人信息为你自己的信息，然后提交保存。
+*斜体强调*   关键词，
 
-- 至此一个简单的个人博客已经搭建好了，访问上面图片中标记的博客地址，就能看到你自己的博客主页了。  
+<u>下划线强调</u>  关键词，
 
-- 最后就是发布文章，将你自己编写好的文章放到`__posts`目录下，提交到github之后，就完成了，进入你的博客，便能看见你所发布的文章。
+> 这是一个引用块(blockquote)强调，段首加> 即可。
 
-### jekyll主题
+~~删除关键词。~~
 
-[JEkyll主题网站](http://jekyllthemes.org) 使用方式说明
-- 选择喜欢的主题  
+添加脚注。[^1]
 
-- `clone` 到本地
+[^1]: 这是一个脚注。
 
-- 找到你的博客主目录，先copy备份，然后删除其中除了`.git、_posts`文件夹和`CNAME`文件之外的其他所有文件及文件夹
+`this is a piece of code.   #这是一句代码` 
 
-- 将你clone的主题的主目录下除`.git`文件夹外的其他文件及文件夹copy到你的博客主目录
+```
+this is a block of codes. #这是一个代码块
+sentence 1
+```
 
-- 在主目录下启动`jekyll server`
+## 这是二级标题 ：列表
 
-- 进入`localhost:4000`查看
+有序列表
 
-- 如果失败也别担心，因为本地可能缺少某些插件，push变更到github，发布成功后去查看  
+1. First item
+2. Second item
+3. Third item
 
-### 后记
-&emsp;&emsp; 此文是基于Github来搭建个人博客，可能由于网络的原因，有的同学并不能访问Github，这个时候如果仍然想搭建这样一个简单的个人博客，该怎么办呢？这个时候大家就可以移步到国内的[码云-git仓库](https://gitee.com/)，操作步骤和本教程中的一样，这样同样可以搭建一个个人博客，访问速度还快。
-### 致谢
+下面是一个分割线：三个短横杠
 
-本博客是在[dawn1432](dawn1432.github.io) 博客模板上个性化修改而成，是一个简洁的博客模板。
+---
+
+无序列表
+
+- First item 
+- Second item
+- Third item
+
+---
+
+任务列表：短横杠 方括号里加x
+
+- [x] First step
+- [ ] Second step
+- [ ] Third step
+
+---
+
+带缩进的自定义列表，用冒号标记缩进的行
+
+term1
+
+: chapter1
+
+term2
+
+: chapter2
+
+### 一个带索引的三级标题：图片表格与链接 {#1.1.1}
+
+几级标题就加几个#号。标题后加入{# custom-id} 可以在后文进行索引。
+
+[我的个人主页链接](http://shizhuozhang.github.io)
+
+插入图片Markdown语法代码：`![图片alt](图片链接 "图片title")`。
+
+<img src="E:/Github pages/shizhuozhang.github.io/images/avatar.jpg" alt="这是我的头像照片"  title="my photo" height="300" >
+
+![Markdown下的图片无法控制显示大小](E:/Github pages/shizhuozhang.github.io/images/calendar.png)
+
+项目     | Value
+-------- | -----
+电脑  | $1600
+手机  | $12
+导管  | $1
+
+
+这是表格
+
+| Column 1 | Column 2  |	Column 3 |
+|:--------| :---------:|--------:|
+| centered 文本居左 | right-aligned 文本居中 |right-aligned 文本居右|
+
+
+
+
+
+
+
+
+
+
+
+
