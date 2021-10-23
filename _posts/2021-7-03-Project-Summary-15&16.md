@@ -5,6 +5,9 @@ date: 2021-7-03
 tags: Project-Summary
 ---
 
+14年入学哈工程，不久便加入学校最大的科创社团：EV协会。不敢说大学四年过得多好，但因为EV协会，我确实没怎么虚度光阴。从一张白纸，慢慢入门，不断做比赛做项目，慢慢成长为“别人眼中的大神”。如果要用一个词概括我的大学，那就只能是“科创”。我目前所有的能力：动手实践，自学能力，探索精神，沟通表达，团队协作，系统思维等等，全都是在社团里不断培养。我所有的荣誉，竞赛奖项也都是依托EV协会这一平台获得的。所以，虽然可能并没有做出多么厉害的成果，但几年的科创经历给了我很多信心和梦想，支撑我走向更远的地方。所以每当想起曾经在EV协会的生活，我都心存感激。
+
+
 <p align="left"><font face="黑体" size=4>关键词:</font></p> 
 
 科创比赛，MCU开发，电子设计DIY，控制系统，robot。
@@ -40,8 +43,8 @@ ___
 **Project:**  风力摆控制系统
 
 <center class="half">
-    <img src="https://shizhuozhang.github.io/images/project_summary/Flb1.jpg" width="200"/>
-    <img src="https://shizhuozhang.github.io/images/project_summary/Flb2.jpg" width="150"/>
+    <img src="https://shizhuozhang.github.io/images/project_summary/Flb1.jpg" width="250"/>
+    <img src="https://shizhuozhang.github.io/images/project_summary/Flb2.jpg" width="220"/>
 </center>
 
 **Brief intro:**
@@ -67,9 +70,10 @@ ___
 **Project:**  水下作业机器人（ROV）
 
 <center class="half">
-    <img src="https://shizhuozhang.github.io/images/project_summary/ROV.jpg" style="zoom:15%;" />
-    <img src="https://shizhuozhang.github.io/images/project_summary/水下机器人水下对抗.jpg" style="zoom:15%;" />
+    <img src="https://shizhuozhang.github.io/images/project_summary/ROV.jpg" style="zoom:20%;" />
+    <img src="https://shizhuozhang.github.io/images/project_summary/水下机器人水下对抗.jpg" style="zoom:20%;" />
 </center>
+
 
 **Brief intro:**
 
@@ -117,12 +121,9 @@ ___
 
 
 <center class="half">
-   <img src="https://shizhuozhang.github.io/images/project_summary/ROBOMASTER.png" style="zoom:30%;" />
-   <img src="https://shizhuozhang.github.io/images/project_summary/ROBOMASTER1.jpg" style="zoom:35%;" />
+   <img src="https://shizhuozhang.github.io/images/project_summary/ROBOMASTER.png" style="zoom:35%;" />
+   <img src="https://shizhuozhang.github.io/images/project_summary/ROBOMASTER1.jpg" style="zoom:40%;" />
 </center>
-
-
-
 
 
 **Brief intro:**
@@ -146,7 +147,7 @@ ___
 
 **Project:**  金属探测循迹小车
 
-<img src="https://shizhuozhang.github.io/images/project_summary/金属检测循迹小车.jpg" style="zoom:40%;" />
+<img src="https://shizhuozhang.github.io/images/project_summary/金属检测循迹小车.jpg" style="zoom:45%;" />
 
 **Brief intro:**
 
