@@ -15,8 +15,8 @@ ___
 **Project:**  学习板及电子模块设计制作
 
 <center class="half">
-    <img src="../images/project_summary/IMG_20170621_144514.jpg" style="zoom:15%;" />
-    <img src="../images/project_summary/ahrs.jpg" style="zoom:33%;" />
+    <img src="https://shizhuozhang.github.io/images/project_summary/IMG_20170621_144514.jpg" style="zoom:15%;" />
+    <img src="https://shizhuozhang.github.io/images/project_summary/ahrs.jpg" style="zoom:33%;" />
 </center>
 
 
@@ -27,7 +27,7 @@ ___
 
 **Outcomes:**
 
-[部分电路板原理图和PCB文件已开源]([shizhuozhang/PCB_design-YKz (github.com)](https://github.com/shizhuozhang/PCB_design-YKz))
+部分电路板原理图和PCB文件已开源:[shizhuozhang/PCB_design-YKz (github.com)](https://github.com/shizhuozhang/PCB_design-YKz)
 
 ___
 
@@ -35,9 +35,9 @@ ___
 
 **Project:**  电力仿真实验平台
 
-<img src="../images/project_summary/1-16348872754551.jpg" style="zoom:20%;" />
+<img src="https://shizhuozhang.github.io/images/project_summary/1-16348872754551.jpg" style="zoom:20%;" />
 
-<img src="../images/project_summary/2-16348872993152.jpg" style="zoom:15%;" />
+<img src="https://shizhuozhang.github.io/images/project_summary/2-16348872993152.jpg" style="zoom:15%;" />
 
 **Brief intro:**
 
@@ -50,7 +50,7 @@ ___
 
 **Outcomes:**
 
-调试过程的结果很好[项目的部分资料已开源]([shizhuozhang/17_eletricity_simu_platform-YkZ (github.com)](https://github.com/shizhuozhang/17_eletricity_simu_platform-YkZ))
+项目的部分资料已开源: [shizhuozhang/17_eletricity_simu_platform-YkZ (github.com)](https://github.com/shizhuozhang/17_eletricity_simu_platform-YkZ)
 
 ___
 
@@ -73,9 +73,10 @@ ___
 **Project:**  云台和姿态角随动系统
 
 <center class="half">
-    <img src="../images/project_summary/1.jpg" style="zoom:20%;" />
-    <img src="../images/project_summary/2.jpg" style="zoom:20%;" />
+    <img src="https://shizhuozhang.github.io/images/project_summary/1.jpg" style="zoom:20%;" />
+    <img src="https://shizhuozhang.github.io/images/project_summary/2.jpg" style="zoom:20%;" />
 </center>
+
 
 
 
@@ -90,7 +91,7 @@ ___
 
 **Outcomes:**
 
-调试过程的结果很好[实验代码、报告和视频演示结果]([shizhuozhang/17-Coursework-YkZ (github.com)](https://github.com/shizhuozhang/17-Coursework-YkZ))
+实验代码、报告和视频演示结果:[shizhuozhang/17-Coursework-YkZ (github.com)](https://github.com/shizhuozhang/17-Coursework-YkZ)
 
 
 
@@ -100,9 +101,9 @@ ___
 
 **Project:**  tilt-rotor 
 
-<img src="../images/project_summary/Tilt-rotor-bet.JPG" style="zoom:40%;" />
+<img src="https://shizhuozhang.github.io/images/project_summary/Tilt-rotor-bet.JPG" style="zoom:40%;" />
 
-<img src="../images/project_summary/tiltrotor.jpg" style="zoom:20%;" />
+<img src="https://shizhuozhang.github.io/images/project_summary/tiltrotor.jpg" style="zoom:20%;" />
 
 **Brief intro:**
 
@@ -115,7 +116,7 @@ ___
 
 **Outcomes:**
 
-调试过程的结果很好[该项目的部分代码、资料和测试视频已开源]([shizhuozhang/2018_quad-tilt-rotor-YkZ (github.com)](https://github.com/shizhuozhang/2018_quad-tilt-rotor-YkZ))
+该项目的部分代码、资料和测试视频已开源: [shizhuozhang/2018_quad-tilt-rotor-YkZ (github.com)](https://github.com/shizhuozhang/2018_quad-tilt-rotor-YkZ)
 
 
 
@@ -125,9 +126,9 @@ ___
 
 **Project:**  船舶强迫横摇实验装置，交流伺服电机控制
 
-<img src="../images/project_summary/experiment1.jpg" style="zoom:15%;" />
+<img src="https://shizhuozhang.github.io/images/project_summary/experiment1.jpg" style="zoom:15%;" />
 
-<img src="../images/project_summary/device1.jpg" style="zoom:10%;" />
+<img src="https://shizhuozhang.github.io/images/project_summary/device1.jpg" style="zoom:10%;" />
 
 **Brief intro:**
 
@@ -140,5 +141,5 @@ ___
 
 **Outcomes:**
 
-调试过程的结果很好,[项目的代码和部分资料已开源]([shizhuozhang/18_vessel_rolling_simu-YkZ (github.com)](https://github.com/shizhuozhang/18_vessel_rolling_simu-YkZ))
+项目的代码和部分资料已开源: [shizhuozhang/18_vessel_rolling_simu-YkZ (github.com)](https://github.com/shizhuozhang/18_vessel_rolling_simu-YkZ)
 

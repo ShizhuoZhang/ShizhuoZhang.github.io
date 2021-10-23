@@ -16,7 +16,7 @@ ___
 
 **Project:**  基于全向移动机器人平台和Kinect的二维SLAM
 
-<img src="../images/project_summary/platform.png" style="zoom:30%;" />
+<img src="https://shizhuozhang.github.io/images/project_summary/platform.png" style="zoom:30%;" />
 
 **Brief intro:**
 
@@ -29,7 +29,7 @@ ___
 
 **Outcomes:**
 
-由于课程时间问题，系统中没有加入里程计，使得动态的地图构建结果不太理想。但系统的基本框架还是完善，算是SLAM入门的小尝试吧。 [项目资料和代码以开源到我的github.]([shizhuozhang/Test_2D_SLAM-YkZ (github.com)](https://github.com/shizhuozhang/Test_2D_SLAM-YkZ)) 
+由于课程时间问题，系统中没有加入里程计，使得动态的地图构建结果不太理想。但系统的基本框架还是完善，算是SLAM入门的小尝试吧。 项目资料和代码以开源到我的github: [shizhuozhang/Test_2D_SLAM-YkZ (github.com)](https://github.com/shizhuozhang/Test_2D_SLAM-YkZ)
 
 ___
 
@@ -37,7 +37,7 @@ ___
 
 **Project:**  运载火箭推力下降故障控制重构方法研究 (Control reconfiguration methods for space launch vehicle with thrust loss fault)
 
-<img src="../images/project_summary/Graphical abstract_zyk.png" style="zoom:30%;" />
+<img src="https://shizhuozhang.github.io/images/project_summary/Graphical abstract_zyk.png" style="zoom:30%;" />
 
 **Brief intro:**
 
@@ -50,7 +50,7 @@ ___
 
 **Outcomes:**
 
-整理系统重构控制方面的工作，以第一作者发表期刊论文一篇；控制分配的方法参与发表会议论文一篇。[该项目的论文和部分代码片段在我的github上]([shizhuozhang/2019_FTC_SLV-YkZ (github.com)](https://github.com/shizhuozhang/2019_FTC_SLV-YkZ))
+整理系统重构控制方面的工作，以第一作者发表期刊论文一篇；控制分配的方法参与发表会议论文一篇。该项目的论文和部分代码片段在我的github上: [shizhuozhang/2019_FTC_SLV-YkZ (github.com)](https://github.com/shizhuozhang/2019_FTC_SLV-YkZ)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 **Project:**  飞行器控制性能评估方法和软件平台完善
 
-<img src="../images/project_summary/图片2.png" style="zoom:50%;" />
+<img src="https://shizhuozhang.github.io/images/project_summary/图片2.png" style="zoom:50%;" />
 
 **Brief intro:**
 
@@ -81,7 +81,7 @@ ___
 
 **Project:**  稳定与跟踪综合控制性能提升的姿态控制技术研究 (Research on the Aircraft Control Method for the Improvement of the Comprehensive Control Performance)
 
-<img src="../images/project_summary/图片1.png" style="zoom:50%;" />
+<img src="https://shizhuozhang.github.io/images/project_summary/图片1.png" style="zoom:50%;" />
 
 **Brief intro:**
 
@@ -94,7 +94,7 @@ ___
 
 **Outcomes:**
 
-调试过程的结果很好[项目代码和论文专利资料。]([shizhuozhang/NN_Adp_GSC_HFV-YkZ (github.com)](https://github.com/shizhuozhang/NN_Adp_GSC_HFV-YkZ))
+调试过程的结果很好项目代码和论文专利资料: [shizhuozhang/NN_Adp_GSC_HFV-YkZ (github.com)](https://github.com/shizhuozhang/NN_Adp_GSC_HFV-YkZ)
 
 ___
 
@@ -102,7 +102,7 @@ ___
 
 **Project:**  物块分拣搬运小车
 
-<img src="../images/project_summary/Coordinate.png" style="zoom:40%;" />
+<img src="https://shizhuozhang.github.io/images/project_summary/Coordinate.png" style="zoom:40%;" />
 
 **Brief intro:**
 
@@ -111,8 +111,8 @@ ___
 **Features:**
 
 * STM32控制器。
-* 方法二[该方法的代码和论文资料]([shizhuozhang/Inst_Linr_Ctrl_HFV (github.com)](https://github.com/shizhuozhang/Inst_Linr_Ctrl_HFV))
-* 方法三[该方法的代码和论文资料]([shizhuozhang/PPFSMC_HFV-YkZ (github.com)](https://github.com/shizhuozhang/PPFSMC_HFV-YkZ))
+* 方法二该方法的代码和论文资料: [shizhuozhang/Inst_Linr_Ctrl_HFV (github.com)](https://github.com/shizhuozhang/Inst_Linr_Ctrl_HFV)
+* 方法三该方法的代码和论文资料:[shizhuozhang/PPFSMC_HFV-YkZ (github.com)](https://github.com/shizhuozhang/PPFSMC_HFV-YkZ)
 
 **Outcomes:**
 

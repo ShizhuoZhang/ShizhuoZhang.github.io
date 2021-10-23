@@ -17,7 +17,7 @@ ___
 
 **Project:**  物块分拣搬运小车
 
-<img src="../images/project_summary/IMG_20150722_184713.jpg" style="zoom: 15%;" />
+<img src="https://shizhuozhang.github.io/images/project_summary/IMG_20150722_184713.jpg" style="zoom: 15%;" />
 
 **Brief intro:**
 
@@ -31,7 +31,7 @@ ___
 
 **Outcomes:**
 
-调试过程的结果很好，但比赛时由于场地的光照问题（灰度传感器对强光照敏感），没有获得很好的名次，实属遗憾！[调试视频链接]([2015robocup_物块分拣搬运履带小车_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1xf4y1g7Ur/))
+调试过程的结果很好，但比赛时由于场地的光照问题（灰度传感器对强光照敏感），没有获得很好的名次，实属遗憾！调试视频: [2015robocup_物块分拣搬运履带小车_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1xf4y1g7Ur/)
 
 ___
 
@@ -40,9 +40,10 @@ ___
 **Project:**  风力摆控制系统
 
 <center class="half">
-    <img src="../images/project_summary/Flb1.jpg" width="250"/>
-    <img src="../images/project_summary/Flb2.jpg" width="250"/>
+    <img src="https://shizhuozhang.github.io/images/project_summary/Flb1.jpg" width="250"/>
+    <img src="https://shizhuozhang.github.io/images/project_summary/Flb2.jpg" width="250"/>
 </center>
+
 
 
 **Brief intro:**
@@ -57,7 +58,7 @@ ___
 
 **Outcomes:**
 
-黑龙江赛区一等奖[调试视频链接]([2015电赛-风力摆画圆_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Rq4y197N4?spm_id_from=333.999.0.0))
+黑龙江赛区一等奖。调试视频: [2015电赛-风力摆画圆_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Rq4y197N4?spm_id_from=333.999.0.0)
 
 
 
@@ -68,9 +69,10 @@ ___
 **Project:**  水下作业机器人（ROV）
 
 <center class="half">
-    <img src="../images/project_summary/ROV.jpg" style="zoom:20%;" />
-    <img src="../images/project_summary/水下机器人水下对抗.jpg" style="zoom:20%;" />
+    <img src="https://shizhuozhang.github.io/images/project_summary/ROV.jpg" style="zoom:20%;" />
+    <img src="https://shizhuozhang.github.io/images/project_summary/水下机器人水下对抗.jpg" style="zoom:20%;" />
 </center>
+
 
 
 
@@ -88,7 +90,7 @@ ___
 
 主要负责其中的电控部分，包括硬件电路和控制软件系统开发与调试。比赛获得“水下作业组冠军”和“水下对抗组一等奖”。完整的比赛视频没有找到，调试过程的记录也比较少（当时团队里没有搞宣传的人啊，要是当时短视频也如此流行，我会不会成为网红呢，哈哈哈）
 
-**PS：**凭借团队在该领域的不断积累，[2018年]([哈工程在国际水下机器人竞赛中夺冠 (nsfc.gov.cn)](https://www.nsfc.gov.cn/csc/20340/20289/29992/index.html))和[2019年]([﻿大公报：哈工程卫冕国际水下机器人竞赛-工学新闻 (hrbeu.edu.cn)](http://news.hrbeu.edu.cn/info/1017/3423.htm))在国际水下机器人大赛中均取得冠军，虽未参赛，但依然为母校和团队感到骄傲！
+**PS：**凭借团队在该领域的不断积累，[2018年](https://www.nsfc.gov.cn/csc/20340/20289/29992/index.html)和[2019年](http://news.hrbeu.edu.cn/info/1017/3423.htm)在国际水下机器人大赛中均取得冠军，虽未参赛，但依然为母校和团队感到骄傲！
 
 ___
 
@@ -96,7 +98,7 @@ ___
 
 **Project:** 自主寻路避障小车
 
-<img src="../images/project_summary/智能寻路避障小车.jpg" style="zoom:33%;" />
+<img src="https://shizhuozhang.github.io/images/project_summary/智能寻路避障小车.jpg" style="zoom:33%;" />
 
 **Brief intro:**
 
@@ -109,7 +111,7 @@ ___
 
 **Outcomes:**
 
-只是为了做着玩，不过麻雀虽小，五脏俱全，算是自主避障导航（自动驾驶）的雏形吧，和现在的超声波，激光雷达，视觉避障比起来，真是小孩子的玩具，哈哈哈。[调试视频链接]([寻路避障小车_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1zq4y197LK?spm_id_from=333.999.0.0))
+只是为了做着玩，不过麻雀虽小，五脏俱全，算是自主避障导航（自动驾驶）的雏形吧，和现在的超声波，激光雷达，视觉避障比起来，真是小孩子的玩具，哈哈哈。调试视频: [寻路避障小车_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1zq4y197LK?spm_id_from=333.999.0.0)
 
 ___
 
@@ -120,15 +122,16 @@ ___
 
 
 <center class="half">
-   <img src="../images/project_summary/ROBOMASTER.png" style="zoom:40%;" />
-   <img src="../images/project_summary/ROBOMASTER1.jpg" style="zoom:45%;" />
+   <img src="https://shizhuozhang.github.io/images/project_summary/ROBOMASTER.png" style="zoom:40%;" />
+   <img src="https://shizhuozhang.github.io/images/project_summary/ROBOMASTER1.jpg" style="zoom:45%;" />
 </center>
+
 
 
 
 **Brief intro:**
 
-该项目为DJI主办的 2016年[RoboMasters]([RoboMaster 机甲大师赛](https://www.robomaster.com/zh-CN))全国大学生机器人大赛。比赛形式为参赛双方各自制造多台战车战车上安装有射击装置和血条系统，通过操纵战车在模拟的站地内相互较量，模拟枪战游戏。图为哈工程EV机器人战队制作的步兵车。
+该项目为DJI主办的 2016年[RoboMaster 机甲大师赛](https://www.robomaster.com/zh-CN)全国大学生机器人大赛。比赛形式为参赛双方各自制造多台战车战车上安装有射击装置和血条系统，通过操纵战车在模拟的站地内相互较量，模拟枪战游戏。图为哈工程EV机器人战队制作的步兵车。
 
 **Features:**
 
@@ -139,7 +142,7 @@ ___
 
 **Outcomes:**
 
-由于2016年该比赛还处于起步阶段（2015年首次全国范围内竞赛），学校不太重视没有经费，技术也都处于摸索阶段，现在看来做出的东西比较一般。最难的应该是机械设计，感觉准备比赛的过程中，除了焊接电路，大多时候都在拧螺丝。。。尽管产品有点low，但在当时的比赛中依然取得北方赛区一等奖，全国总决赛三等奖的成绩。当时的比赛官方视频已经找不到了，只有一些自己的录得残缺但好玩的[测试视频]()
+由于2016年该比赛还处于起步阶段（2015年首次全国范围内竞赛），学校不太重视没有经费，技术也都处于摸索阶段，现在看来做出的东西比较一般。最难的应该是机械设计，感觉准备比赛的过程中，除了焊接电路，大多时候都在拧螺丝。。。尽管产品有点low，但在当时的比赛中依然取得北方赛区一等奖，全国总决赛三等奖的成绩。当时的比赛官方视频已经找不到了，只有一些自己的录得残缺但好玩的测试视频：[2016RoboMasters步兵车测试_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1ef4y1g7Nt?spm_id_from=333.999.0.0)；[2016Robomaster比赛片段截取_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1iF411Y7zt?spm_id_from=333.999.0.0)
 
 ___
 
@@ -147,7 +150,7 @@ ___
 
 **Project:**  金属探测循迹小车
 
-<img src="../images/project_summary/金属检测循迹小车.jpg" style="zoom:50%;" />
+<img src="https://shizhuozhang.github.io/images/project_summary/金属检测循迹小车.jpg" style="zoom:50%;" />
 
 **Brief intro:**
 
@@ -161,7 +164,7 @@ ___
 
 **Outcomes:**
 
-但是刚做完robomaster比赛，很多材料都没有提前准备，东拼西凑造出来这台小车，勉强获得赛区二等奖。[调试视频]([2016电赛-金属探测小车_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Nu411f7uJ?spm_id_from=333.999.0.0))
+但是刚做完robomaster比赛，很多材料都没有提前准备，东拼西凑造出来这台小车，勉强获得赛区二等奖。调试视频: [2016电赛-金属探测小车_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Nu411f7uJ?spm_id_from=333.999.0.0)
 
 ___
 
