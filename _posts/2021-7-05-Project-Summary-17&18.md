@@ -15,8 +15,8 @@ ___
 **Project:**  学习板及电子模块设计制作
 
 <center class="half">
-    <img src="https://shizhuozhang.github.io/images/project_summary/IMG_20170621_144514.jpg" style="zoom:15%;" />
-    <img src="https://shizhuozhang.github.io/images/project_summary/ahrs.jpg" style="zoom:33%;" />
+    <img src="https://shizhuozhang.github.io/images/project_summary/IMG_20170621_144514.jpg" style="zoom:10%;" />
+    <img src="https://shizhuozhang.github.io/images/project_summary/ahrs.jpg" style="zoom:20%;" />
 </center>
 
 
@@ -35,9 +35,9 @@ ___
 
 **Project:**  电力仿真实验平台
 
-<img src="https://shizhuozhang.github.io/images/project_summary/1-16348872754551.jpg" style="zoom:20%;" />
+<img src="https://shizhuozhang.github.io/images/project_summary/1-16348872754551.jpg" style="zoom:15%;" />
 
-<img src="https://shizhuozhang.github.io/images/project_summary/2-16348872993152.jpg" style="zoom:15%;" />
+<img src="https://shizhuozhang.github.io/images/project_summary/2-16348872993152.jpg" style="zoom:10%;" />
 
 **Brief intro:**
 
@@ -73,12 +73,9 @@ ___
 **Project:**  云台和姿态角随动系统
 
 <center class="half">
-    <img src="https://shizhuozhang.github.io/images/project_summary/1.jpg" style="zoom:20%;" />
-    <img src="https://shizhuozhang.github.io/images/project_summary/2.jpg" style="zoom:20%;" />
+    <img src="https://shizhuozhang.github.io/images/project_summary/1.jpg" style="zoom:15%;" />
+    <img src="https://shizhuozhang.github.io/images/project_summary/2.jpg" style="zoom:15%;" />
 </center>
-
-
-
 
 **Brief intro:**
 
@@ -101,9 +98,9 @@ ___
 
 **Project:**  tilt-rotor 
 
-<img src="https://shizhuozhang.github.io/images/project_summary/Tilt-rotor-bet.JPG" style="zoom:40%;" />
+<img src="https://shizhuozhang.github.io/images/project_summary/Tilt-rotor-bet.JPG" style="zoom:35%;" />
 
-<img src="https://shizhuozhang.github.io/images/project_summary/tiltrotor.jpg" style="zoom:20%;" />
+<img src="https://shizhuozhang.github.io/images/project_summary/tiltrotor.jpg" style="zoom:15%;" />
 
 **Brief intro:**
 
@@ -126,9 +123,9 @@ ___
 
 **Project:**  船舶强迫横摇实验装置，交流伺服电机控制
 
-<img src="https://shizhuozhang.github.io/images/project_summary/experiment1.jpg" style="zoom:15%;" />
+<img src="https://shizhuozhang.github.io/images/project_summary/experiment1.jpg" style="zoom:10%;" />
 
-<img src="https://shizhuozhang.github.io/images/project_summary/device1.jpg" style="zoom:10%;" />
+<img src="https://shizhuozhang.github.io/images/project_summary/device1.jpg" style="zoom:8%;" />
 
 **Brief intro:**
 

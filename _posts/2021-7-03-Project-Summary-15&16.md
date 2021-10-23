@@ -40,11 +40,9 @@ ___
 **Project:**  风力摆控制系统
 
 <center class="half">
-    <img src="https://shizhuozhang.github.io/images/project_summary/Flb1.jpg" width="250"/>
-    <img src="https://shizhuozhang.github.io/images/project_summary/Flb2.jpg" width="250"/>
+    <img src="https://shizhuozhang.github.io/images/project_summary/Flb1.jpg" width="200"/>
+    <img src="https://shizhuozhang.github.io/images/project_summary/Flb2.jpg" width="150"/>
 </center>
-
-
 
 **Brief intro:**
 
@@ -69,12 +67,9 @@ ___
 **Project:**  水下作业机器人（ROV）
 
 <center class="half">
-    <img src="https://shizhuozhang.github.io/images/project_summary/ROV.jpg" style="zoom:20%;" />
-    <img src="https://shizhuozhang.github.io/images/project_summary/水下机器人水下对抗.jpg" style="zoom:20%;" />
+    <img src="https://shizhuozhang.github.io/images/project_summary/ROV.jpg" style="zoom:15%;" />
+    <img src="https://shizhuozhang.github.io/images/project_summary/水下机器人水下对抗.jpg" style="zoom:15%;" />
 </center>
-
-
-
 
 **Brief intro:**
 
@@ -98,7 +93,7 @@ ___
 
 **Project:** 自主寻路避障小车
 
-<img src="https://shizhuozhang.github.io/images/project_summary/智能寻路避障小车.jpg" style="zoom:33%;" />
+<img src="https://shizhuozhang.github.io/images/project_summary/智能寻路避障小车.jpg" style="zoom:25%;" />
 
 **Brief intro:**
 
@@ -122,9 +117,10 @@ ___
 
 
 <center class="half">
-   <img src="https://shizhuozhang.github.io/images/project_summary/ROBOMASTER.png" style="zoom:40%;" />
-   <img src="https://shizhuozhang.github.io/images/project_summary/ROBOMASTER1.jpg" style="zoom:45%;" />
+   <img src="https://shizhuozhang.github.io/images/project_summary/ROBOMASTER.png" style="zoom:30%;" />
+   <img src="https://shizhuozhang.github.io/images/project_summary/ROBOMASTER1.jpg" style="zoom:35%;" />
 </center>
+
 
 
 
@@ -150,7 +146,7 @@ ___
 
 **Project:**  金属探测循迹小车
 
-<img src="https://shizhuozhang.github.io/images/project_summary/金属检测循迹小车.jpg" style="zoom:50%;" />
+<img src="https://shizhuozhang.github.io/images/project_summary/金属检测循迹小车.jpg" style="zoom:40%;" />
 
 **Brief intro:**
 
