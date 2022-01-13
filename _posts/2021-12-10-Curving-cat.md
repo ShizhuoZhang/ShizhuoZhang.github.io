@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 给外甥雕一只小猫
+title: 给外甥的小猫摆件
 date: 2021-12-10
 tags: Woodcarving
 ---

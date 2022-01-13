@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 给贝雕的海豚挂件
+title: 给贝的小海豚挂件
 date: 2021-12-30
 tags: Woodcarving
 ---
