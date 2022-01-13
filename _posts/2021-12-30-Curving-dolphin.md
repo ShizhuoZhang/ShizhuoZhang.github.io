@@ -10,7 +10,7 @@ tags: Woodcarving
 
 <center><font face="黑体" size=6>海豚挂件 篇</font></center> 
 
-&emsp;&emsp;海豚一直以来被看作美好爱情的象征，这一唯美的意象在电影《大鱼海棠》中有诸多体现。于是从电影中获得灵感，就想要雕一只可爱的小海豚。
+&emsp;&emsp;海豚一直以来被看作美好爱情的象征，这一唯美的意象在电影《大鱼海棠》中有诸多体现。于是从电影中获得了灵感，就想要雕一只可爱的小海豚。
 
 <img src="https://shizhuozhang.github.io/images/carving/dolphin/dolphin_10.JPG" style="zoom:50%;" />
 

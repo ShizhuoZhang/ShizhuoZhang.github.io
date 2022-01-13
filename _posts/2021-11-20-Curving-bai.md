@@ -15,20 +15,23 @@ tags: Woodcarving
 首先，给象牙果去皮，网上有些教程都是用电磨机，但我是一点一点用刀把它削干净的。去皮后的象牙果整个就像一个羊脂球，很好看（这个有些微黄，不是纯白的）。
 
 <div align="center">
-    <img src="https://shizhuozhang.github.io/images/carving/bai/bai_1.jpg" style="zoom:40%;" /><img src="https://shizhuozhang.github.io/images/carving/bai/bai_2.jpg" style="zoom:40%;" />
+    <img src="https://shizhuozhang.github.io/images/carving/bai/Bai_1.jpg" style="zoom:40%;" /><img src="https://shizhuozhang.github.io/images/carving/bai/Bai_2.jpg" style="zoom:40%;" />
 </div>
+
 
 然后，又一点一点削出大致的轮廓。
 
 <div align="center">
-    <img src="https://shizhuozhang.github.io/images/carving/bai/bai_3.jpg" style="zoom:40%;" />
+    <img src="https://shizhuozhang.github.io/images/carving/bai/Bai_3.jpg" style="zoom:40%;" />
 </div>
+
 
 之后，精修细节，并用砂纸从粗到细依次打磨。
 
 <div align="center">
-    <img src="https://shizhuozhang.github.io/images/carving/bai/bai_4.jpg" style="zoom:40%;" />
+    <img src="https://shizhuozhang.github.io/images/carving/bai/Bai_4.jpg" style="zoom:40%;" />
 </div>
+
 
 最后，充分利用象牙果的芽眼的凹洞，在里面打入一个帽钉，然后挂上手绳，制作完成。
 
