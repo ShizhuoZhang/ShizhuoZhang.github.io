@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "大白"手把件
+title: 大白手把件
 date: 2021-11-20
 tags: Woodcarving
 ---
