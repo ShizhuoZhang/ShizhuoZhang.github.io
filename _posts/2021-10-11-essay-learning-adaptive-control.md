@@ -42,7 +42,7 @@ Following this line of thinking, the above-mentioned conundrums, especially for 
 
 It is obvious to all that **Machine Learning** (ML) has been widely applied in image and speech recognition, machine vision, natural language processing, etc., and it also shows superior performance in many robotic fields like environment perception, high-level tasks planning and control policy making [4], [5], which are relatively direct and accessible for learning. By contrast, robot dynamic control, the underlying part in the whole robot system, is more control-oriented rather than learning-oriented, because of its close contact with real-life hardware. Though more efforts might be made, this highly interdisciplinary direction (as shown in Fig.1) has been proved profitable in plenty of related work [6]–[9], making it worthwhile to develop learning-based control for robot dynamic systems. 
 
-<img src="https://shizhuozhang.github.io/images/academic/Learning_control_filed.JPG" style="zoom:70%;" />
+<img src="https://shizhuozhang.github.io/images/academic/Learning_control_field.JPG" style="zoom:60%;" />
 
 In summary, all I want to explore is the issue that <u>how to integrate NN into control to achieve better adaptive control for nonlinear systems with unknown dynamics</u>, especially those with rapid and unforeseen changes in the environment. And the ultimate objective is to develop learning-based adaptive control methods and achieve good real-world performance in engineering practice like UAVs or manipulators. As presented above, the biggest difficulty of this work lies on the settlement of adverse impacts caused by changes.
 
@@ -102,5 +102,5 @@ To sum up, significant progress of NN has been made in control of nonlinear dyna
 
 ___
 
-For more details, please visit [RP_zyk-UAV]([shizhuozhang/papers-YkZ (github.com)](https://github.com/shizhuozhang/papers-YkZ))to find a complete version! 
+For other sections and more details, please visit [RP_zyk-UAV]([shizhuozhang/papers-YkZ (github.com)](https://github.com/shizhuozhang/papers-YkZ))to find a complete version! 
 
