@@ -30,11 +30,11 @@ With the advent of *the era of Industry 4.0*, almost all sectors such as process
 
 Since the 1980s, **Intelligent Control** characterized by expert system, NN and fuzzy logic has begun to flourish, forming the corresponding new control methods [2]. These methods are essentially bionic by emulating the learning and decision patterns of organisms, and thus have less dependency on the mathematical model to some extent. Therefore, it is definitely a promising research direction, especially the NN-based control methods deserve more attention in light of the sprouting up of Deep Learning in the past decade [3]. When control meets learning, many new possibilities will be created: 
 
-* deep NN has unique advantages in processing nonlinearity and high-dimension so that it can achieve more accurate modeling; 
+* Deep NN has unique advantages in processing nonlinearity and high-dimension so that it can achieve more accurate modeling; 
 
-* the inherently parallel architecture makes NN ideal for real-time implementations that require fast speed;
+* The inherently parallel architecture makes NN ideal for real-time implementations that require fast speed;
 
-*  the online training capabilities of NN greatly facilitate the self-adaptation of controller. 
+*  The online training capabilities of NN greatly facilitate the self-adaptation of controller. 
 
 Following this line of thinking, the above-mentioned conundrums, especially for complex dynamic systems that are currently beyond the capability of existing control methods, seem to be conquerable, and then such problems in control engineering areas such as manufacturing, aerospace, biomedical, etc. will have better solutions.
 
@@ -90,7 +90,7 @@ Besides, the direct adaptive control optimally adjusts the controller. For class
 
 Furthermore, from a more learning-oriented perspective, control design can also be considered a regression task: find the mapping from sensor to actuator that optimizes the goal cost function, which is also identified as a concept of “end-to-end control”. Compared with conventional controller, it is called machine learning control in [34], a novel control design strategy using DNN or data-driven regression techniques to discover effective control laws without the need for a system model. Eg: literature [35] built DNN to calculate robot joint torques without modeling the robot manipulator dynamics. 
 
-<p align="left"><font face="黑体" size=4.5>2.4 Methods summary</font></p> 
+<p align="left"><font face="黑体" size=4>2.4 Methods summary</font></p> 
 
 To sum up, significant progress of NN has been made in control of nonlinear dynamic systems: in offline and online model learning, in predicting system dynamics, in solving control optimization. All mentioned solutions are illustrated in Fig. 2. Although there has been relatively comprehensive coverage with different emphases, a large gap between the theory and practice truly gives the alarm. Besides the notorious shortcomings of NN like lack of physical explainability, incomplete theoretical foundations, need for large amounts of data, etc., some more practical concerns deserve attention to improve the feasibility and usability of the existing schemes: 
 
