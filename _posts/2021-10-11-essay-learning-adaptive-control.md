@@ -102,5 +102,5 @@ To sum up, significant progress of NN has been made in control of nonlinear dyna
 
 ___
 
-For other sections and more details, please visit [RP_zyk-UAV]([shizhuozhang/papers-YkZ (github.com)](https://github.com/shizhuozhang/papers-YkZ))to find a complete version! 
+For other sections and more details, please visit [RP_zyk-UAV](https://github.com/shizhuozhang/papers-YkZ) to find a complete version! 
 

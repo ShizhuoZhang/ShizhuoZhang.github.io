@@ -11,7 +11,7 @@ tags: Academic-essay
 
 <p align="left"><font face="黑体" size=5>Abstract:</font></p> 
 
-&emsp;Robotic micromanipulation technology developed in the last three decades has greatly facilitated research in cell engineering, and fully automated cell manipulation systems are accordingly demanded. Aiming at the adherent cell injection for high-throughput screening, this research proposal is meant to explore novel robotic cell micromanipulation and injection methods. The research background and current status are firstly presented. Then the literature review on cell microinjection and involved key technologies are investigated from two aspects of microscopic computer vision and micro-robotic control. Finally, with the ambition of building a perfect robotic microinjection system for adherent cells, the system architecture and major equipment required for experiments are outlined, system procedures are listed step by step, some improvements are proposed.
+&emsp;Robotic micromanipulation technology developed in the last three decades has greatly facilitated research in cell engineering, and fully automated cell manipulation systems are accordingly demanded. Aiming at the adherent cell injection for high-throughput screening, this research proposal is meant to explore novel robotic cell micromanipulation and injection methods. The research background and current status are firstly presented. Then the literature review on cell microinjection and involved key technologies are investigated from two aspects of microscopic computer vision and micro-robotic control. Finally, with the ambition of building a perfect robotic microinjection system for adherent cells, the system architecture and major equipment required for experiments are outlined, system procedures are listed step by step, some improvements are proposed, and expected outcomes are correspondingly planned as well.
 
 ___
 
@@ -103,5 +103,5 @@ Since robotic micromanipulation is a relatively young field, the novel robotic c
 
 ___
 
-For the Reference section and other details, please visit [RP_zyk-micromanipulation]([shizhuozhang/papers-YkZ (github.com)](https://github.com/shizhuozhang/papers-YkZ))to find a complete version! 
+For the Reference section and other details, please visit [RP_zyk-micromanipulation](https://github.com/shizhuozhang/papers-YkZ) to find a complete version! 
 
